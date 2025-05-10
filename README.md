@@ -6,7 +6,7 @@ Software engineering student
 
 Actualmente curso el quinto cuatrimestre en la Universidad Central del Este (UCE). Durante la carrera, he desarrollado ejercicios y proyectos utilizando lenguajes como pseudocódigo y C#.
 
-* 🌍  I'm based in Bavaro
+* 🌍  I'm based in Punta Cana
 * ✉️  You can contact me at [jeffersonpaez5@Gmail.com](mailto:jeffersonpaez5@Gmail.com)
 * 🧠  I'm learning C# y Python
 * 🤝  I'm open to collaborating on Interesting and Innovative Projects
@@ -19,7 +19,7 @@ src="https://img.shields.io/github/followers/NEW-Jeiferson?logo=github&style=for
 
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 </p>
 
 
