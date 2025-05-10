@@ -8,7 +8,7 @@ Actualmente curso el quinto cuatrimestre en la Universidad Central del Este (UCE
 
 * 🌍  I'm based in Punta Cana
 * ✉️  You can contact me at [jeffersonpaez5@Gmail.com](mailto:jeffersonpaez5@Gmail.com)
-* 🧠  I'm learning C# y Python
+* 🧠  I'm learning C# and SQL
 * 🤝  I'm open to collaborating on Interesting and Innovative Projects
 * ⚡  ¿Alguna vez has visto a Batman y a mí al mismo tiempo? No digo nada, y a la vez lo digo todo.
 
