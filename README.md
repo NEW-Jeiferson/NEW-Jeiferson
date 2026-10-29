@@ -19,7 +19,7 @@
 
 ## 🦇 About me
 
-Software engineering student currently in my **5th cuatrimestre** at **Universidad Central del Este (UCE)**. I enjoy building things, breaking them, and figuring out how to make them better.
+Software engineering student currently in my **9th cuatrimestre** at **Universidad Central del Este (UCE)**. I enjoy building things, breaking them, and figuring out how to make them better.
 
 - 🌴 Based in **Punta Cana, Dominican Republic**
 - 🧠 Currently learning **C#** and **SQL**
@@ -41,15 +41,6 @@ Software engineering student currently in my **5th cuatrimestre** at **Universid
 ---
 
 ## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NEW-Jeiferson/NEW-Jeiferson/main/profile-summary-card-output/dracula/0-profile-details.svg" width="100%" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://raw.githubusercontent.com/NEW-Jeiferson/NEW-Jeiferson/main/profile-summary-card-output/dracula/3-stats.svg" />
-  <img height="180" src="https://raw.githubusercontent.com/NEW-Jeiferson/NEW-Jeiferson/main/profile-summary-card-output/dracula/2-most-commit-language.svg" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=NEW-Jeiferson&stroke=a855f7&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa&hide_border=true" />
