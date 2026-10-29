@@ -12,31 +12,21 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NEW-Jeiferson&label=Profile%20views&color=a855f7&style=for-the-badge" />
-  <a href="https://github.com/NEW-Jeiferson"><img src="https://img.shields.io/github/followers/NEW-Jeiferson?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
+  <img src="https://img.shields.io/github/followers/NEW-Jeiferson?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" />
 </p>
 
 ---
 
 ## 🦇 About me
 
-```csharp
-public class Jeiferson : Developer
-{
-    public string FullName   => "Jeiferson David Paez";
-    public string University => "Universidad Central del Este (UCE)";
-    public string Semester   => "5th cuatrimestre";
-    public string Location   => "Punta Cana, DR 🌴";
+Software engineering student currently in my **5th cuatrimestre** at **Universidad Central del Este (UCE)**. I enjoy building things, breaking them, and figuring out how to make them better.
 
-    public string[] Learning  => new[] { "C#", "SQL" };
-    public string[] OpenTo    => new[] { "Interesting projects", "Innovative ideas", "Collaboration" };
+- 🌴 Based in **Punta Cana, Dominican Republic**
+- 🧠 Currently learning **C#** and **SQL**
+- 🤝 Open to collaborating on **interesting and innovative projects**
+- 📫 Reach me at **jeffersonpaez5@gmail.com**
 
-    public string Contact     => "jeffersonpaez5@gmail.com";
-
-    public string FunFact =>
-        "¿Alguna vez has visto a Batman y a mí al mismo tiempo? " +
-        "No digo nada, y a la vez lo digo todo.";
-}
-```
+> ⚡ *¿Alguna vez has visto a Batman y a mí al mismo tiempo? No digo nada, y a la vez lo digo todo.*
 
 ---
 
@@ -44,7 +34,7 @@ public class Jeiferson : Developer
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,vscode,visualstudio&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cs,dotnet,mysql,docker,git,github,vscode,visualstudio&theme=dark" />
   </a>
 </p>
 
@@ -53,16 +43,16 @@ public class Jeiferson : Developer
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NEW-Jeiferson&show_icons=true&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEW-Jeiferson&layout=compact&title_color=a855f7&text_color=ffffff&bg_color=000000&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/NEW-Jeiferson/NEW-Jeiferson/main/profile-summary-card-output/dracula/0-profile-details.svg" width="100%" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://raw.githubusercontent.com/NEW-Jeiferson/NEW-Jeiferson/main/profile-summary-card-output/dracula/3-stats.svg" />
+  <img height="180" src="https://raw.githubusercontent.com/NEW-Jeiferson/NEW-Jeiferson/main/profile-summary-card-output/dracula/2-most-commit-language.svg" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=NEW-Jeiferson&stroke=a855f7&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NEW-Jeiferson&bg_color=000000&color=ffffff&line=a855f7&point=ffffff&area=true&area_color=a855f7&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -82,10 +72,9 @@ public class Jeiferson : Developer
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="mailto:jeffersonpaez5@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=a855f7" /></a>
-  <a href="https://www.linkedin.com/in/jeiferson-d-paez-94201735a/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=a855f7" /></a>
-  <a href="https://www.instagram.com/d.a.v.i.d.zpz"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=a855f7" /></a>
-  <a href="https://github.com/NEW-Jeiferson"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=a855f7" /></a>
+  <a href="mailto:jeffersonpaez5@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48" alt="Gmail" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/jeiferson-d-paez-94201735a/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://www.instagram.com/d.a.v.i.d.zpz"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="48" alt="Instagram" /></a>
 </p>
 
 <p align="center">
